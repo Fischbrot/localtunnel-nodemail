@@ -1,0 +1,15 @@
+{
+  "name": "localtunnel-mail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Fischbrot",
+  "license": "ISC",
+  "dependencies": {
+    "localtunnel": "^1.9.2",
+    "nodemailer": "^6.2.1"
+  }
+}
